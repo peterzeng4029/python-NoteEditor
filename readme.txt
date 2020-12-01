@@ -1,0 +1,1 @@
+使用python Tkinter 实现记事本的功能。
